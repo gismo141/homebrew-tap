@@ -2,7 +2,7 @@ class Delete < Formula
   desc ""
   homepage ""
   url "https://github.com/gismo141/delete/archive/1.0.0.tar.gz"
-  sha256 "19d62cf5400ab831201bb5774d1c952b40b7b695333d1bd5fbb1d1b8fe762b7d"
+  sha256 "433dd4e94e5fdf786eef9a7ce780cf60ca1cb5a3a48f623785954cce6b86bc07"
   version "1.0.0"
 
   def install
