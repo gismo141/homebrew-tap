@@ -1,4 +1,4 @@
-class Hlink < Formula
+class Delete < Formula
   desc ""
   homepage ""
   url "https://github.com/gismo141/delete/archive/1.0.0.tar.gz"
