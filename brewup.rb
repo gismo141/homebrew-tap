@@ -2,7 +2,7 @@ class Brewup < Formula
   desc ""
   homepage ""
   url "https://github.com/gismo141/brewup/archive/1.0.0.tar.gz"
-  sha256 "433dd4e94e5fdf786eef9a7ce780cf60ca1cb5a3a48f623785954cce6b86bc07"
+  sha256 "a87a33fd75124785828a684f38733e966e2cd62e1665967fd9129aa0cd491677"
   version "1.0.0"
 
   def install
