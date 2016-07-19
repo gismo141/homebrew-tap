@@ -1,8 +1,8 @@
 class Gitlogviz < Formula
   desc ""
   homepage ""
-  url "https://github.com/gismo141/gitlogviz/archive/1.0.0.tar.gz"
-  sha256 "8281d77395b0b0f7508b428c58ff4a8b5655dd67b4807e5a6fbce3d89a06c60f"
+  url "https://github.com/gismo141/gitlogviz/archive/1.0.1.tar.gz"
+  sha256 "5f415cea6eaca4d411397cd8c941e4267731599e"
   version "1.0.1"
 
   def install
